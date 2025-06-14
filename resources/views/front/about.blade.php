@@ -13,11 +13,11 @@
 
                     <div class="col-md-6 wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">
                         <h2 class="mb-4 fw-7 txt-blue">
-                            About <span class="fw-6 txt-orange">BZ Logistics</span>
+                            About <span class="fw-6 txt-orange">CP Trucking</span>
                         </h2>
 
                         <p class="wow fadeInLeft" data-wow-duration="0" data-wow-delay="0.2s">
-                            At BZ Logistics, we are a leading shipping brokerage connecting customers with trusted shippers worldwide. With extensive industry experience, we simplify both international and domestic shipping, providing efficient, reliable, and cost-effective solutions tailored to our clients' needs.
+                            At CP Trucking, we are a leading shipping brokerage connecting customers with trusted shippers worldwide. With extensive industry experience, we simplify both international and domestic shipping, providing efficient, reliable, and cost-effective solutions tailored to our clients' needs.
                         </p>
                         <p class="wow fadeInLeft" data-wow-duration="0" data-wow-delay="0.4s">
                             Our expert team offers personalized service, guiding customers through every stage of their shipping journey. Whether you're shipping small parcels or large freight, we use innovative technology and industry insights to find the best solutions for you.
@@ -203,7 +203,7 @@
                             <!-- Heading Main -->
                             <h1 class="heading-main text-start mb-4">
                                 <span>Why Choose</span>
-                                BZ Logistics
+                                CP Trucking
                             </h1>
                             <!-- Heading Main -->
 
@@ -379,7 +379,7 @@
 
                     <!-- FAQ Item -->
                     <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0s">
-                        <h4 class="h4-md mb-3">What services does BZ Logistics offer?</h4>
+                        <h4 class="h4-md mb-3">What services does CP Trucking offer?</h4>
                         <p>We offer a full range of logistics services including freight transportation, supply chain management, route optimization, and real-time shipment tracking.</p>
                     </div>
 
@@ -409,7 +409,7 @@
 
                     <!-- FAQ Item -->
                     <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="1s">
-                        <h4 class="h4-md mb-3">Is BZ Logistics licensed and insured?</h4>
+                        <h4 class="h4-md mb-3">Is CP Trucking licensed and insured?</h4>
                         <p>Absolutely. We are fully licensed, bonded, and insured to handle your freight with the highest standards of safety and compliance.</p>
                     </div>
                 </div>
@@ -424,7 +424,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-md-12 mb-0 wow slideInUp" data-wow-duration="0" data-wow-delay="0.1s">
-                        <h4 class="h4-xl">Interested in working with BZ Logistics?</h4>
+                        <h4 class="h4-xl">Interested in working with CP Trucking?</h4>
                     </div>
                     <div class="col wow slideInUp" data-wow-duration="0" data-wow-delay="0.2s">
                         <div class="center-text">

@@ -10,9 +10,9 @@
                     <div class="slide-inner bg-image" data-background="{{asset('theme/assets/images/banner_slider_4.jpg')}}" data-text="How We Work<span>For Your Pickup</span>">
                         <div class="container">
                             <h6 data-swiper-parallax="100">From Pickup to Destination</h6>
-                            <h2 data-swiper-parallax="200" class="hero-h1">We Are BZ Logistics</h2>
+                            <h2 data-swiper-parallax="200" class="hero-h1">We Are CP Trucking</h2>
                             <p data-swiper-parallax="300" class="hero-paragraph">
-                                Streamline your entire shipping process from any port to your porch with BZ Logistics' dedicated experts and innovative, cutting-edge industry technology solutions
+                                Streamline your entire shipping process from any port to your porch with CP Trucking' dedicated experts and innovative, cutting-edge industry technology solutions
                             </p>
                             <div class="clearfix"></div>
                             <a href="#" class="btn-theme bg-orange blue-outline" data-swiper-parallax="200">Learn More</a>
@@ -28,7 +28,7 @@
                             <h6 data-swiper-parallax="100">From Pickup to Destination</h6>
                             <h2 data-swiper-parallax="200" class="hero-h1">Ship with confidence.</h2>
                             <p data-swiper-parallax="300" class="hero-paragraph">
-                                Streamline your entire shipping process from any port to your porch with BZ Logistics' dedicated experts and innovative, cutting-edge industry technology solutions
+                                Streamline your entire shipping process from any port to your porch with CP Trucking' dedicated experts and innovative, cutting-edge industry technology solutions
                             </p>
                             <div class="clearfix"></div>
                             <a href="#" class="btn-theme bg-orange blue-outline" data-swiper-parallax="200">Learn More</a>
@@ -44,7 +44,7 @@
                             <h6 data-swiper-parallax="100">From Pickup to Destination</h6>
                             <h2 data-swiper-parallax="200" class="hero-h1">Deliver with assurance.</h2>
                             <p data-swiper-parallax="300" class="hero-paragraph">
-                                Optimize your full shipping experience from any port to your porch with BZ Logistics' skilled professionals and groundbreaking, high-tech industry technology solutions.
+                                Optimize your full shipping experience from any port to your porch with CP Trucking' skilled professionals and groundbreaking, high-tech industry technology solutions.
                             </p>
                             <div class="clearfix"></div>
                             <a href="#" class="btn-theme bg-orange blue-outline" data-swiper-parallax="200">Learn More</a>
@@ -75,11 +75,11 @@
 
                 <div class="col-md-6 wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">
                     <h2 class="mb-4 fw-7 txt-blue">
-                        About <span class="fw-6 txt-orange ">BZ Logistics</span>
+                        About <span class="fw-6 txt-orange ">CP Trucking</span>
                     </h2>
 
                     <p class="wow fadeInLeft" data-wow-duration="0" data-wow-delay="0.2s">
-                        At BZ Logistics, we are a leading shipping brokerage connecting customers with trusted shippers worldwide. With extensive industry experience, we simplify both international and domestic shipping, providing efficient, reliable, and cost-effective solutions tailored to our clients' needs.
+                        At CP Trucking, we are a leading shipping brokerage connecting customers with trusted shippers worldwide. With extensive industry experience, we simplify both international and domestic shipping, providing efficient, reliable, and cost-effective solutions tailored to our clients' needs.
                     </p>
                     <p class="wow fadeInLeft" data-wow-duration="0" data-wow-delay="0.4s">
                         Our expert team offers personalized service, guiding customers through every stage of their shipping journey. Whether you're shipping small parcels or large freight, we use innovative technology and industry insights to find the best solutions for you.
@@ -119,7 +119,7 @@
                             <i class="icofont-airplane-alt"></i>
                             <h4 class="h4-md mb-3">Reliability</h4>
                             <p>
-                                At BZ Logistics, we prioritize dependability in every aspect of our service. We are committed to ensuring that every shipment reaches its destination on time and in perfect condition, giving our clients the confidence they need to trust us with their logistics needs.
+                                At CP Trucking, we prioritize dependability in every aspect of our service. We are committed to ensuring that every shipment reaches its destination on time and in perfect condition, giving our clients the confidence they need to trust us with their logistics needs.
                             </p>
                         </div>
                     </a>
@@ -149,7 +149,7 @@
                             <i class="icofont-ship"></i>
                             <h4 class="h4-md mb-3">Innovation</h4>
                             <p>
-                                We embrace the latest technology and industry advancements to continuously improve our processes and offer cutting-edge solutions. By staying ahead of the curve, BZ Logistics is able to provide efficient, cost-effective shipping options that meet the evolving needs of our clients and the global marketplace.
+                                We embrace the latest technology and industry advancements to continuously improve our processes and offer cutting-edge solutions. By staying ahead of the curve, CP Trucking is able to provide efficient, cost-effective shipping options that meet the evolving needs of our clients and the global marketplace.
                             </p>
                         </div>
                     </a>

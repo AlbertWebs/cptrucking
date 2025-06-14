@@ -10,31 +10,31 @@
     <!-- xxx Favicon xxx -->
     <link rel="shortcut icon" type="image/x-icon" href="{{asset('theme/assets/images/favicon.ico')}}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no">
-    <title>BZ LOGISTICS LLC - Logistics & Supply Chain Solutions</title>
+    <title>CP Logistics LLC - Logistics & Supply Chain Solutions</title>
 
     <!-- Meta Tags for SEO -->
-    <meta name="author" content="BZ LOGISTICS LLC">
-    <meta name="description" content="BZ LOGISTICS LLC provides top-notch logistics, supply chain management, and transportation services for businesses. Get reliable and efficient shipping and logistics solutions.">
-    <meta name="keywords" content="BZ LOGISTICS, logistics, supply chain, transportation, shipping, freight, warehousing, trucking, cargo, logistics solutions, corporate services, expedition, freight services, transport, packaging, warehousing solutions">
+    <meta name="author" content="CP Logistics LLC">
+    <meta name="description" content="CP Logistics LLC provides top-notch logistics, supply chain management, and transportation services for businesses. Get reliable and efficient shipping and logistics solutions.">
+    <meta name="keywords" content="CP Logistics, logistics, supply chain, transportation, shipping, freight, warehousing, trucking, cargo, logistics solutions, corporate services, expedition, freight services, transport, packaging, warehousing solutions">
 
     <!-- Open Graph (OG) Meta Tags -->
-    <meta property="og:title" content="BZ LOGISTICS LLC - Logistics & Supply Chain Solutions">
-    <meta property="og:description" content="BZ LOGISTICS LLC offers reliable logistics and supply chain management services tailored to your business needs. Contact us for efficient freight and transportation solutions.">
-    <meta property="og:url" content="https://www.bzlogistics.us">
-    <meta property="og:image" content="https://www.bzlogistics.us/path/to/your/logo-or-image.jpg')}}"> <!-- Replace with your image URL -->
+    <meta property="og:title" content="CP Logistics LLC - Logistics & Supply Chain Solutions">
+    <meta property="og:description" content="CP Logistics LLC offers reliable logistics and supply chain management services tailored to your business needs. Contact us for efficient freight and transportation solutions.">
+    <meta property="og:url" content="https://www.cptrucking.us">
+    <meta property="og:image" content="https://www.cptrucking.us/path/to/your/logo-or-image.jpg')}}"> <!-- Replace with your image URL -->
     <meta property="og:type" content="website">
-    <meta property="og:site_name" content="BZ LOGISTICS LLC">
+    <meta property="og:site_name" content="CP Logistics LLC">
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@bzlogistics">
-    <meta name="twitter:title" content="BZ LOGISTICS LLC - Logistics & Supply Chain Solutions">
-    <meta name="twitter:description" content="BZ LOGISTICS LLC specializes in logistics, freight, transportation, and supply chain management. Efficient, reliable, and cost-effective services tailored for your business needs.">
-    <meta name="twitter:image" content="https://www.bzlogistics.us/path/to/your/logo-or-image.jpg')}}"> <!-- Replace with your image URL -->
+    <meta name="twitter:title" content="CP Logistics LLC - Logistics & Supply Chain Solutions">
+    <meta name="twitter:description" content="CP Logistics LLC specializes in logistics, freight, transportation, and supply chain management. Efficient, reliable, and cost-effective services tailored for your business needs.">
+    <meta name="twitter:image" content="https://www.cptrucking.us/path/to/your/logo-or-image.jpg')}}"> <!-- Replace with your image URL -->
     <meta name="twitter:creator" content="@bzlogistics">
 
     <!-- Contact Information -->
-    <meta name="contact:email" content="contact@bzlogistics.us">
+    <meta name="contact:email" content="contact@cptrucking.us">
     <meta name="contact:phone" content="+1 (816) 219-1494">
 
     <!-- xxx Favicon xxx -->
@@ -94,7 +94,7 @@
                         </div>
                         <div class="top-text">
                             <small class="txt-black">Emaii Us</small>
-                            <a href="mailto:contact@bzlogistics.us"><span class="__cf_email__" data-cfemail="24575154544b565064484b435e41410a474b49">contact@bzlogistics.us</span></a>
+                            <a href="mailto:contact@cptrucking.us"><span class="__cf_email__" data-cfemail="24575154544b565064484b435e41410a474b49">contact@cptrucking.us</span></a>
                         </div>
                         <div class="top-text">
                             <small class="txt-black">Phone Number</small>
@@ -118,7 +118,7 @@
                         <!-- Topbar Language Dropdown End -->
 
                         <div class="d-inline-flex request-btn ms-2">
-                            <a class="btn-theme icon-left bg-orange no-shadow d-none d-lg-inline-block align-self-center" href="mailto:contact@bzlogistics.us" role="button" data-bs-toggle="modal" data-bs-target="#request_popup"><i class="icofont-page"></i> Request Quote</a>
+                            <a class="btn-theme icon-left bg-orange no-shadow d-none d-lg-inline-block align-self-center" href="mailto:contact@cptrucking.us" role="button" data-bs-toggle="modal" data-bs-target="#request_popup"><i class="icofont-page"></i> Request Quote</a>
                         </div>
                     </div>
                 </div>

@@ -10,31 +10,31 @@
     <!-- xxx Favicon xxx -->
     <link rel="shortcut icon" type="image/x-icon" href="{{asset('uploads/favicon.png')}}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no">
-    <title>Contact Us - BZ Logistics LLC </title>
+    <title>Contact Us - CP Trucking LLC </title>
 
     <!-- Meta Tags for SEO -->
-    <meta name="author" content="BZ Logistics LLC">
-    <meta name="description" content="BZ Logistics LLC provides top-notch logistics, supply chain management, and transportation services for businesses. Get reliable and efficient shipping and logistics solutions.">
-    <meta name="keywords" content="BZ LOGISTICS, logistics, supply chain, transportation, shipping, freight, warehousing, trucking, cargo, logistics solutions, corporate services, expedition, freight services, transport, packaging, warehousing solutions">
+    <meta name="author" content="CP Trucking LLC">
+    <meta name="description" content="CP Trucking LLC provides top-notch logistics, supply chain management, and transportation services for businesses. Get reliable and efficient shipping and logistics solutions.">
+    <meta name="keywords" content="CP Trucking, logistics, supply chain, transportation, shipping, freight, warehousing, trucking, cargo, logistics solutions, corporate services, expedition, freight services, transport, packaging, warehousing solutions">
 
     <!-- Open Graph (OG) Meta Tags -->
-    <meta property="og:title" content="Contact Us - BZ Logistics LLC ">
-    <meta property="og:description" content="BZ Logistics LLC offers reliable logistics and supply chain management services tailored to your business needs. Contact us for efficient freight and transportation solutions.">
-    <meta property="og:url" content="https://www.bzlogistics.us/about-us">
-    <meta property="og:image" content="https://www.bzlogistics.us/path/to/your/logo-or-image.jpg')}}"> <!-- Replace with your image URL -->
+    <meta property="og:title" content="Contact Us - CP Trucking LLC ">
+    <meta property="og:description" content="CP Trucking LLC offers reliable logistics and supply chain management services tailored to your business needs. Contact us for efficient freight and transportation solutions.">
+    <meta property="og:url" content="https://www.cptrucking.us/about-us">
+    <meta property="og:image" content="https://www.cptrucking.us/path/to/your/logo-or-image.jpg')}}"> <!-- Replace with your image URL -->
     <meta property="og:type" content="website">
-    <meta property="og:site_name" content="BZ Logistics LLC">
+    <meta property="og:site_name" content="CP Trucking LLC">
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@bzlogistics">
-    <meta name="twitter:title" content="Contact Us - BZ Logistics LLC ">
-    <meta name="twitter:description" content="BZ Logistics LLC specializes in logistics, freight, transportation, and supply chain management. Efficient, reliable, and cost-effective services tailored for your business needs.">
-    <meta name="twitter:image" content="https://www.bzlogistics.us/path/to/your/logo-or-image.jpg')}}"> <!-- Replace with your image URL -->
+    <meta name="twitter:title" content="Contact Us - CP Trucking LLC ">
+    <meta name="twitter:description" content="CP Trucking LLC specializes in logistics, freight, transportation, and supply chain management. Efficient, reliable, and cost-effective services tailored for your business needs.">
+    <meta name="twitter:image" content="https://www.cptrucking.us/path/to/your/logo-or-image.jpg')}}"> <!-- Replace with your image URL -->
     <meta name="twitter:creator" content="@bzlogistics">
 
     <!-- Contact Information -->
-    <meta name="contact:email" content="contact@bzlogistics.us">
+    <meta name="contact:email" content="contact@cptrucking.us">
     <meta name="contact:phone" content="+1 (816) 219-1494">
 
     <!-- xxx Favicon xxx -->
@@ -82,7 +82,7 @@
 
             <h1>Contact Us</h1>
             <div class="breadcrumbs-description">
-                Have questions or need a quote? We’re here to help! Reach out to the BZ Logistics team anytime—we’re ready to assist with your shipping needs and provide the support you deserve. Let’s get your freight moving!
+                Have questions or need a quote? We’re here to help! Reach out to the CP Trucking team anytime—we’re ready to assist with your shipping needs and provide the support you deserve. Let’s get your freight moving!
             </div>
         </div>
     </div>
@@ -101,7 +101,7 @@
                     <div class="logo-footer">
                         <img src="{{asset('uploads/logo.png')}}" alt="">
                     </div>
-                    <p>At BZ Logistics, we are a leading shipping brokerage connecting customers with trusted shippers worldwide.</p>
+                    <p>At CP Trucking, we are a leading shipping brokerage connecting customers with trusted shippers worldwide.</p>
 
                     <h3 class="footer-heading">We're Social</h3>
                     <div class="social-icons">
@@ -164,8 +164,8 @@
                         <div class="media mb-3">
                             <i class="icofont-ui-email me-3"></i>
                             <div class="media-body">
-                                <div><a href="mailto:contact@bzlogistics.us"><span class="__cf_email__" data-cfemail="9ef7f0f8f1def2f1f9e4fbfbb0fdf1f3">contact@bzlogistics.us</span></a></div>
-                                {{-- <div><a href="mailto:contact@bzlogistics.us"><span class="__cf_email__" data-cfemail="80f3f5f0f0eff2f4c0ecefe7fae5e5adf4e5e1edaee3efed">contact@bzlogistics.us</span></a></div> --}}
+                                <div><a href="mailto:contact@cptrucking.us"><span class="__cf_email__" data-cfemail="9ef7f0f8f1def2f1f9e4fbfbb0fdf1f3">contact@cptrucking.us</span></a></div>
+                                {{-- <div><a href="mailto:contact@cptrucking.us"><span class="__cf_email__" data-cfemail="80f3f5f0f0eff2f4c0ecefe7fae5e5adf4e5e1edaee3efed">contact@cptrucking.us</span></a></div> --}}
                             </div>
                         </div>
                         <div class="media mb-3">
@@ -193,7 +193,7 @@
                         <a href="#">Privacy Policy</a> <span>|</span> <a href="#">Terms and Conditions</a> <span>|</span> <a href="#">Shipping Policies</a>
                     </div>
                     <div class="col-sm-12 col-md-6 text-md-end text-center">
-                        Copyright © <span id="yearText"></span> BZ Logistics | All Rights Reserved Powered by <a href="#" rel="nofollow">Designekta Studios</a>
+                        Copyright © <span id="yearText"></span> CP Trucking | All Rights Reserved 
                     </div>
                 </div>
             </div>

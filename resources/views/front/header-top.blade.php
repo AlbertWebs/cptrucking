@@ -20,7 +20,7 @@
                             </div>
                             <div class="top-text">
                                 <small class="txt-ligt-gray">Emaii Us</small>
-                                <span class="fw-6 txt-blue"><a href="mailto:contact@bzlogistics.us" class="txt-blue"><span class="__cf_email__" data-cfemail="32414742425d4046725e5d554857571c515d5f">contact@bzlogistics.us</span></a></span>
+                                <span class="fw-6 txt-blue"><a href="mailto:contact@cptrucking.us" class="txt-blue"><span class="__cf_email__" data-cfemail="32414742425d4046725e5d554857571c515d5f">contact@cptrucking.us</span></a></span>
                             </div>
                             <div class="top-text">
                                 <small class="txt-ligt-gray">Phone Number</small>

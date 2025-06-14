@@ -36,10 +36,10 @@
                                 <i class="icofont-phone"></i> <span>+1 (816) 219-1494</span>
                             </div>
                             <div class="text-nowrap d-flex align-items-start items">
-                                <i class="icofont-email"></i> <a href="#"><span>contact@bzlogistics.us</span></a>
+                                <i class="icofont-email"></i> <a href="#"><span>contact@cptrucking.us</span></a>
                             </div>
                             <div class="text-nowrap d-flex align-items-start items">
-                                <i class="icofont-email"></i> <a href="#"><span>hello@bzlogistics.us</span></a>
+                                <i class="icofont-email"></i> <a href="#"><span>hello@cptrucking.us</span></a>
                             </div>
                         </div>
                         <!-- Contact Detail Left -->
